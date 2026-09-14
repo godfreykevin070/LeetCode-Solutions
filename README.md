@@ -42,10 +42,10 @@ Solutions will cover topics such as:
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    |        |
-| 🟡 Medium  |        |
-| 🔴 Hard    |        |
-| **Total**  |        |
+| 🟢 Easy    |    1    |
+| 🟡 Medium  |    3    |
+| 🔴 Hard    |    1    |
+| **Total**  |    5    |
 
 ## 🎯 Goal
 
